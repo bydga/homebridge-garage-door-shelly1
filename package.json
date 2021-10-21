@@ -1,5 +1,5 @@
 {
-    "name": "homebridge-garage-door-shelly1",
+    "name": "@bydga/homebridge-garage-door-shelly1",
     "version": "1.1.5",
     "description": "Homebridge plugin for a simple garage door opener using Shelly 1 relay",
     "main": "index.js",
@@ -8,11 +8,11 @@
         "node": ">=12.13.0"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "exit 0"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jmaferreira/homebridge-garage-door-shelly1"
+        "url": "git+https://github.com/bydga/homebridge-garage-door-shelly1"
     },
     "dependencies": {
         "jsonpath": "^1.0.2",
@@ -28,10 +28,10 @@
         "shelly",
         "shelly1"
     ],
-    "author": "Miguel Ferreira",
+    "author": "Martin Bydzovsky",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jmaferreira/homebridge-garage-door-shelly1/issues"
+        "url": "https://github.com/bydga/homebridge-garage-door-shelly1/issues"
     },
-    "homepage": "https://github.com/jmaferreira/homebridge-garage-door-shelly1#readme"
+    "homepage": "https://github.com/bydga/homebridge-garage-door-shelly1#readme"
 }
